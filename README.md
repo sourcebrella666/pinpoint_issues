@@ -1,4 +1,4 @@
-# pinpoint_online_demo
+# pinpoint issue forum
 
 This repo is used for users to discuss Pinpoint. Any usage questions, false positive or true negative feedback, or suggestions are welcome! Our specialist will answer your questions in a short time.
 
